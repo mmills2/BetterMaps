@@ -1,0 +1,7 @@
+React - frontend
+Tailwind - styling
+
+MERN
+MongoDB, Express, React, NodeJS
+
+NextJS!! - Full framework
